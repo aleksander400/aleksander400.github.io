@@ -1,0 +1,34 @@
+Instrukcja konfiguracji sceny TestScene:
+
+1. Przygotowanie środowiska:
+- Zaimportuj XR Interaction Toolkit przez Package Manager
+- Dodaj komponent XR Rig do głównej kamery
+
+2. Konfiguracja NavMesh:
+- Wykonaj bake nawigacji dla obiektów statycznych
+
+3. Dodawanie NPC:
+- Utwórz obiekty z komponentami NavMeshAgent i AIController
+
+4. Konfiguracja gracza VR:
+- Dodaj kontrolery i skrypt VRInteractions
+
+5. System interakcji:
+- Skonfiguruj CyberInteractionSystem i HackingUI
+
+6. Interfejs użytkownika:
+- Dodaj i skonfiguruj CyberpunkHUD
+
+7. Interfejs AI:
+- Dodaj prefab AI_Panel do sceny
+- Przypisz komponent AIInterfaceController
+- Skonfiguruj elementy:
+  * avatarImage - obraz avatara
+  * normalAvatar - domyślny wygląd
+  * talkingAvatar - wersja mówiąca
+  * chatText - pole tekstowe czatu
+  * inputField - pole wprowadzania tekstu
+  * Przyciski funkcjonalne
+
+8. Testowanie:
+- Sprawdź wszystkie funkcjonalności w trybie VR

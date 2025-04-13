@@ -1,0 +1,33 @@
+2025-04-11 01:51:12,619 - INFO - Antivirus started
+2025-04-11 02:21:08,765 - INFO - Antivirus started
+2025-04-11 02:23:11,466 - INFO - Antivirus started
+2025-04-11 02:45:49,339 - INFO - Antivirus started
+2025-04-11 03:03:51,893 - INFO - Antivirus started
+2025-04-11 03:07:08,042 - INFO - Antivirus started
+2025-04-11 03:12:31,944 - INFO - Antivirus started
+2025-04-11 03:13:50,173 - INFO - Antivirus started
+2025-04-11 03:15:37,376 - INFO - Antivirus started
+2025-04-11 03:17:21,452 - INFO - Antivirus started
+2025-04-11 03:25:11,656 - INFO - Antivirus started
+2025-04-11 03:58:48,290 - INFO - Antivirus started
+2025-04-11 04:01:58,919 - INFO - Antivirus started
+2025-04-11 04:06:38,915 - INFO - Antivirus started
+2025-04-11 04:21:08,396 - INFO - Antivirus started
+2025-04-11 04:22:22,059 - INFO - Antivirus started
+2025-04-11 11:27:59,211 - INFO - Antivirus started
+2025-04-11 11:43:32,572 - INFO - Antivirus started
+2025-04-11 11:44:23,994 - INFO - Antivirus started
+2025-04-11 11:54:59,810 - INFO - Antivirus started
+2025-04-11 11:57:27,631 - INFO - Antivirus started
+2025-04-11 12:06:05,005 - INFO - Antivirus started
+2025-04-11 13:10:32,473 - INFO - Antivirus started
+2025-04-12 09:10:36,536 - INFO - Antivirus started
+2025-04-12 09:41:33,453 - INFO - Antivirus started
+2025-04-12 12:41:35,512 - INFO - Antivirus started
+2025-04-12 12:41:35,684 - INFO - Rozpoczêto skanowanie systemu (typ: quick)
+2025-04-12 12:41:35,997 - ERROR - B³¹d podczas skanowania: 'UniversalAntivirus' object has no attribute 'quick_scan'
+2025-04-12 12:52:25,659 - INFO - Antivirus started
+2025-04-12 12:52:25,849 - INFO - Rozpoczêto skanowanie systemu (typ: quick)
+2025-04-12 12:52:25,987 - ERROR - B³¹d podczas skanowania: 'UniversalAntivirus' object has no attribute 'quick_scan'
+2025-04-12 13:11:22,626 - INFO - Antivirus started
+2025-04-12 13:11:22,856 - INFO - Rozpoczêto skanowanie systemu (typ: quick)
